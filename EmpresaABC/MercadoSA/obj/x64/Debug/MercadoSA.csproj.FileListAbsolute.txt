@@ -1,0 +1,13 @@
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\bin\x64\Debug\MercadoSA.exe.config
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\bin\x64\Debug\MercadoSA.exe
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\bin\x64\Debug\MercadoSA.pdb
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\obj\x64\Debug\MercadoSA.csproj.AssemblyReference.cache
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\obj\x64\Debug\MercadoSA.Form1.resources
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\obj\x64\Debug\MercadoSA.frmLogin.resources
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\obj\x64\Debug\MercadoSA.frmMenuPrincipal.resources
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\obj\x64\Debug\MercadoSA.Properties.Resources.resources
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\obj\x64\Debug\MercadoSA.Splash.resources
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\obj\x64\Debug\MercadoSA.csproj.GenerateResource.cache
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\obj\x64\Debug\MercadoSA.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\obj\x64\Debug\MercadoSA.exe
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTi110\EmpresaABC\MercadoSA\obj\x64\Debug\MercadoSA.pdb
